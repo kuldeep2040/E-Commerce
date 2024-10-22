@@ -56,7 +56,7 @@ An advanced e-commerce platform built using the **MERN stack** (MongoDB, Express
     cd frontend
     npm start
 
-The website will be running at [https://shoppy-ks.vercel.app/](https://shoppy-ks.vercel.app/).
+The website will be running at [Shoppy](https://shoppy-ks.vercel.app/).
 
 ## 🛡️ Security
 
